@@ -1,7 +1,7 @@
 {
   "version": 1,
   "timeZone": "Asia/Seoul",
-  "lastScanAt": "2026-11-06T15:16:55.624Z",
+  "lastScanAt": "2026-11-06T17:27:54.998Z",
   "days": {
     "2026-10-03": {
       "input": 424,
@@ -221,11 +221,46 @@
       "messages": 211
     },
     "2026-11-07": {
-      "input": 60,
-      "output": 25804,
-      "cacheCreation": 38067,
-      "cacheRead": 3522760,
-      "messages": 24
+      "input": 494,
+      "output": 239087,
+      "cacheCreation": 1026209,
+      "cacheRead": 59503222,
+      "messages": 231
     }
-  }
+  },
+  "limits": {
+    "2026-10-07": {
+      "session": 0,
+      "weekly": 1
+    },
+    "2026-10-09": {
+      "session": 2,
+      "weekly": 0
+    },
+    "2026-10-10": {
+      "session": 2,
+      "weekly": 0
+    },
+    "2026-10-17": {
+      "session": 1,
+      "weekly": 0
+    },
+    "2026-11-01": {
+      "session": 3,
+      "weekly": 0
+    },
+    "2026-11-03": {
+      "session": 0,
+      "weekly": 1
+    },
+    "2026-11-05": {
+      "session": 0,
+      "weekly": 3
+    },
+    "2026-11-06": {
+      "session": 2,
+      "weekly": 0
+    }
+  },
+  "plan": "Pro"
 }

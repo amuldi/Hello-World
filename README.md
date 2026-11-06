@@ -43,6 +43,8 @@
 <br><br>
 <img src="claude-activity/claude-prompts-2026.svg" alt="Claude Code prompts in 2026" />
 <br><br>
+<img src="claude-activity/claude-limits-2026.svg" alt="Claude Code plan and usage limits in 2026" />
+<br><br>
 <img src="claude-activity/claude-projects.svg" alt="Projects worked on with Claude Code" />
 <br><br>
 <sub>Made with <a href="https://github.com/amuldi/ClaudeCode_HitMap">ClaudeCode_HitMap</a> · <a href="https://github.com/amuldi/My-Claude-Code-activity">how to add this to your README</a></sub>
