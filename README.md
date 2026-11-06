@@ -39,11 +39,11 @@
 
 <div align="center">
 <h2> 🤖 Claude Code Activity </h2>
-<a href="https://github.com/amuldi/My-Claude-Code-activity">
-<img src="https://raw.githubusercontent.com/amuldi/My-Claude-Code-activity/main/claude-hitmap.svg" alt="Claude Code token heatmap" />
-</a>
+<img src="claude-activity/claude-hitmap-2026.svg" alt="Claude Code tokens in 2026" />
 <br><br>
-<a href="https://github.com/amuldi/My-Claude-Code-activity">
-<img src="https://raw.githubusercontent.com/amuldi/My-Claude-Code-activity/main/claude-prompts.svg" alt="Claude Code prompts heatmap" />
-</a>
+<img src="claude-activity/claude-prompts-2026.svg" alt="Claude Code prompts in 2026" />
+<br><br>
+<img src="claude-activity/claude-projects.svg" alt="Projects worked on with Claude Code" />
+<br><br>
+<sub>Made with <a href="https://github.com/amuldi/ClaudeCode_HitMap">ClaudeCode_HitMap</a> · <a href="https://github.com/amuldi/My-Claude-Code-activity">how to add this to your README</a></sub>
 </div>
