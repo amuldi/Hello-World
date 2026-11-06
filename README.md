@@ -36,13 +36,14 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=amuldi&bg_color=180,00000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amuldi&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤖 Claude Code Activity </h2> <br>
-    <a href="https://github.com/amuldi/My-Claude-Code-activity"> <img src="https://raw.githubusercontent.com/amuldi/My-Claude-Code-activity/main/claude-hitmap.svg" alt="Claude Code token heatmap" /> </a>
-    </div>
+
+<div align="center">
+<h2> 🤖 Claude Code Activity </h2>
+<a href="https://github.com/amuldi/My-Claude-Code-activity">
+<img src="https://raw.githubusercontent.com/amuldi/My-Claude-Code-activity/main/claude-hitmap.svg" alt="Claude Code token heatmap" />
+</a>
+<br><br>
+<a href="https://github.com/amuldi/My-Claude-Code-activity">
+<img src="https://raw.githubusercontent.com/amuldi/My-Claude-Code-activity/main/claude-prompts.svg" alt="Claude Code prompts heatmap" />
+</a>
+</div>
