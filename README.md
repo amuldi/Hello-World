@@ -39,8 +39,6 @@
 
 <div align="center">
 <h2> 🤖 Claude Code Activity </h2>
-<img src="claude-activity/claude-hitmap-2026.svg" alt="Claude Code tokens in 2026" />
-<br><br>
 <img src="claude-activity/claude-prompts-2026.svg" alt="Claude Code prompts in 2026" />
 <br><br>
 <img src="claude-activity/claude-projects.svg" alt="Projects worked on with Claude Code" />
