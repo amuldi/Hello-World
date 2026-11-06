@@ -42,3 +42,7 @@
            /> </div> 
     </div>
     
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤖 Claude Code Activity </h2> <br>
+    <a href="https://github.com/amuldi/My-Claude-Code-activity"> <img src="https://raw.githubusercontent.com/amuldi/My-Claude-Code-activity/main/claude-hitmap.svg" alt="Claude Code token heatmap" /> </a>
+    </div>
